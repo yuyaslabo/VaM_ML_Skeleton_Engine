@@ -14,13 +14,14 @@ That's it! Your character will start moving.
 
 [ Credits & Acknowledgments ]
 This model was trained using the following community assets. I am deeply grateful to these creators for their contributions to the VaM ecosystem:
-- lapiro
-- Acid Bubbles
-- PrimeMocap
-- NekoNeko
-- LDR
-- NLvam
-- VamTimbo
+- lapiro: Voxta Demo
+- Acid Bubbles: Voxta Beta Scene
+- PrimeMocap: Girlfriend Dance, Halloween Free,
+- NekoNeko: Riding Challenge(Hard) - Vam Launch
+- LDR: Evil Vixen V2, Wet Whispers, Game for lovers 2
+- NLvam: NL077 Girl tossing and turning
+- VamTimbo: Elf Breast Massage, Focus On Me K-Pop
+- CuddleMocap: Cute Idles Simplified
 
 The training data consists exclusively of Free/CC-licensed content; no Paid/Premium assets were used. To respect the original licenses, this resource is distributed under CC BY-NC-ND.
 

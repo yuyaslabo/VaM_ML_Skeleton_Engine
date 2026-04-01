@@ -21,8 +21,7 @@ This model was trained using the following community assets. I am deeply gratefu
 - LDR
 - NLvam
 - VamTimbo
-[ Demo Video Assets ]
-- Xspada: SugarPublic (Character Look used in the video)
+
 The training data consists exclusively of Free/CC-licensed content; no Paid/Premium assets were used. To respect the original licenses, this resource is distributed under CC BY-NC-ND.
 
 [ Setup & Demo Video ]

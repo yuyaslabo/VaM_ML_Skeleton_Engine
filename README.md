@@ -1,4 +1,4 @@
-This is an experimental development to drive Virt-A-Mate (VaM) skeleton animations using a Python-based CVAE Machine Learning engine.
+This is an experimental project to drive Virt-A-Mate (VaM) skeleton animations using a Python-based CVAE Machine Learning engine.
 
 [ Quick Start Guide ]
 1. Download the ML Skeleton Engine from this release.

@@ -9,6 +9,7 @@ That's it! Your character will start moving.
 
 [ Note ]
 - Optimized for Person Scale (height) about 0.9 (adjust morphs/height). If used at the default Scale 1.0, the waist may appear bent.
+- Please make sure that the "Allow Plugins Network Access" option is checked. (In VaM “User Preferences” > “Security”)
 - Port: Default 9998 (Changeable in Plugin GUI).
 - Offloading: Supports running the Engine on a separate LAN PC. (Need edit target_ip.csv)
 
